@@ -1,27 +1,34 @@
 # Hi, I'm Deekshitha 👋
 
-🎓 Electronics and Communication Engineering (ECE) Student
+I am a **Digital Design & VLSI Engineer** aspiring to bridge the gap between hardware architecture and **Machine Learning Acceleration**. My core strength lies in digital logic and hardware description languages, and I am actively growing towards designing next-generation hardware accelerators (TPUs/NPUs) for Edge AI and TinyML applications.
+---
 
-💡 Passionate about learning and building solutions in both Core Electronics and Software Technologies.
+## 🚀 About Meand **FPGA prototyping**.
+ -🔭 I'm currently deeping knowledge in Machine learning with python. 
+- 💬 Ask me about **Verilog, Vivado, and Digital Logic Design**.
+- 📫 How to reach me: | **[www.linkedin.com/in/gadidesi-deekshitha-616391358]**
 
-📚 Currently preparing for GATE 2027 and strengthening my technical foundation in ECE.
+---
 
-💻 Learning Python,and Machine Learning.
+## 🛠️ Tech Stack & Tools
 
-🔬 Core Areas of Interest:
-- Digital Electronics
-- Microprocessors & Microcontrollers
-- Embedded Systems
-- VLSI Design
-- Communication Systems
-- Signal Processing
+### Hardware Description & Verification
+![Verilog](https://img.shields.io/badge/Verilog-💡-blue)
 
-🤖 Technology Interests:
-- Machine Learning
-- Python Programming
+### EDA Tools & Simulations
+![Xilinx Vivado](https://img.shields.io/badge/Xilinx_Vivado-🧡-orange)
+![ModelSim](https://img.shields.io/badge/ModelSim-🌐-blueviolet)
 
-🏆 Regularly practicing coding and problem-solving to improve my programming skills.
 
-📂 This GitHub profile showcases my projects, coursework, coding practice, and learning journey in ECE and Machine Learning.
+### Programming & Scripting
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-🌱 Always eager to learn, build, and contribute to innovative projects.
+------
+
+## 🏆 Featured Projects
+
+### 🔢 [8-Bit ALU with Vivado Reports]
+Designed and simulated an 8-bit Arithmetic Logic Unit capable of performing arithmetic, logical, and shifting operations. Included synthesis and implementation reports using Xilinx Vivado.
+
+### ⏱️ [Static Timing Analysis Engine]
+A custom script/tool designed to calculate arrival times, required times, and slack to detect timing violations in digital circuits.
